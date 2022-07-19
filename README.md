@@ -1,4 +1,5 @@
-### Hi there 👋
+# ( Φ ω Φ )
+[![cuppyzh's github stats](https://github-readme-stats-khaki-gamma.vercel.app/api?username=cuppyzh&line_height=24&count_private=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=cuppyzh&layout=compact&langs_count=8&exclude_repo=bingode,github-readme-stats&card_width=277)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cuppyzh/cuppyzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
