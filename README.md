@@ -39,6 +39,10 @@ o((>ω< ))o -- wonder how should I set this up
 
 [![Diako](https://github-readme-stats.vercel.app/api/pin/?username=cuppyzh&repo=DalamudPlugin-Diako)](https://github.com/cuppyzh/DalamudPlugin-Diako)
 
+**Hana**
+[![Hana](https://github-readme-stats.vercel.app/api/pin/?username=cuppyzh&repo=Hana)](https://github.com/cuppyzh/Hana)
+
+
 ##  St~~u~~ackOverflow and Github Status
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11335853&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://stackoverflow.com/users/11335853/cuppyzh) (* ￣︿￣)
