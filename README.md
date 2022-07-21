@@ -3,20 +3,26 @@ I'm Software Engineer (Backend Developer) from Indonesia. Currently working on [
 
 ## Technologies & Tools
 
+> The colors say it all
+
 ![](https://img.shields.io/badge/OS-Windows%20+%20WSL-informational?style=flat&logo=windows&logoColor=white&color=green)
 
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20+%20Visual%20Studio%20Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=green)
 
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Go%20(Learning)-informational?style=flat&logo=go&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=red)
 
 ![](https://img.shields.io/badge/Tools-SQL%20Server-informational?style=flat&logo=postgresql&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tools-Docker%20+%20Kubernetes-informational?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&color=red)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=Amazon%20AWS&logoColor=white&color=red)
 
 ## Links
 <p align="center">
-  <a href="https://www.notion.so/Windows-Terminal-7dd3caa0b5bf40a7a0effa39a8b0c0dc">Terminal Setup</a>
+  <a href="/TerminalSetup.md">Terminal Setup</a>
 </p>
 
 ## Current Project
