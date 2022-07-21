@@ -23,7 +23,7 @@ I'm Software Engineer (Backend Developer) from Indonesia. Currently working on [
 ### Terminal Setup
 
 <p align="center">
-  ✨ <a href="../../assets/TerminalSetup.md">How to</a><br />
+  ✨ <a href="../../TerminalSetup.md">How to</a><br />
   <img src="../../assets/Terminal.png" height="400px"/>
 </p>
 
