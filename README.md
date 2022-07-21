@@ -23,7 +23,7 @@ I'm Software Engineer (Backend Developer) from Indonesia. Currently working on [
 
 [![Diako](https://github-readme-stats.vercel.app/api/pin/?username=cuppyzh&repo=DalamudPlugin-Diako)](https://github.com/cuppyzh/DalamudPlugin-Diako)
 
-##  ~~Stuck~~ StackOverflow and Github Status
+##  St~~u~~ackOverflow and Github Status
 
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11335853&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://stackoverflow.com/users/11335853/cuppyzh)
 [![Top Langs](https://github-readme-stats-khaki-gamma.vercel.app/api/top-langs/?username=cuppyzh&layout=compact&langs_count=8&exclude_repo=bingode,github-readme-stats&card_width=277)](https://github.com/anuraghazra/github-readme-stats)
