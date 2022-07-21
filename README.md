@@ -23,8 +23,8 @@ I'm Software Engineer (Backend Developer) from Indonesia. Currently working on [
 ### Terminal Setup
 
 <p align="center">
-  ✨ <a href="../cuppyzh/TerminalSetup.md">How to</a><br />
-  <img src="../cuppyzh/assets/Terminal.png" height="400px"/>
+  ✨ <a href="https://github.com/cuppyzh/cuppyzh/blob/master/TerminalSetup.md">How to</a><br />
+  <img src="https://github.com/cuppyzh/cuppyzh/blob/master/assets/Terminal.png" height="400px"/>
 </p>
 
 ## Links
