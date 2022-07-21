@@ -40,6 +40,7 @@ o((>ω< ))o -- wonder how should I set this up
 [![Diako](https://github-readme-stats.vercel.app/api/pin/?username=cuppyzh&repo=DalamudPlugin-Diako)](https://github.com/cuppyzh/DalamudPlugin-Diako)
 
 **Hana**
+
 [![Hana](https://github-readme-stats.vercel.app/api/pin/?username=cuppyzh&repo=Hana)](https://github.com/cuppyzh/Hana)
 
 
