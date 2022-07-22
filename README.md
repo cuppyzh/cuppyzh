@@ -38,6 +38,7 @@ o((>ω< ))o -- wonder how should I set this up
 **Diako**
 
 [![Diako](https://github-readme-stats.vercel.app/api/pin/?username=cuppyzh&repo=DalamudPlugin-Diako)](https://github.com/cuppyzh/DalamudPlugin-Diako)
+[![Diako](https://github-readme-stats.vercel.app/api/pin/?username=cuppyzh&repo=Go-Diako)](https://github.com/cuppyzh/Go-Diako)
 
 **Hana**
 
