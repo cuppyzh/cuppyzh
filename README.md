@@ -10,7 +10,7 @@ I'm Software Engineer (Backend Developer) from Indonesia. Currently working on [
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20+%20Visual%20Studio%20Code-informational?style=flat&logo=visual%20studio&logoColor=white&color=green)
 
 ![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%20Sharp&logoColor=white&color=green)
-![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=red)
 
